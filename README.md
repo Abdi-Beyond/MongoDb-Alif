@@ -1,4 +1,4 @@
-# MongoDb-Alif
+#
 # *DynamoDB Schema Design for Real Estate Application*
 
 This document outlines the DynamoDB schema for a real estate application, designed for high performance and scalability using a query-first, single-table approach. It supports complex search queries, such as filtering by city, deal type, price range, bedrooms, bathrooms, and property type, with examples and scalability considerations.
